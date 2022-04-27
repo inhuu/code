@@ -1,0 +1,6 @@
+D:\virus\Hello_world\Hello_world\bin\Debug\Hello_world.exe.config
+D:\virus\Hello_world\Hello_world\bin\Debug\Hello_world.exe
+D:\virus\Hello_world\Hello_world\bin\Debug\Hello_world.pdb
+D:\virus\Hello_world\Hello_world\obj\Debug\Hello_world.csprojResolveAssemblyReference.cache
+D:\virus\Hello_world\Hello_world\obj\Debug\Hello_world.exe
+D:\virus\Hello_world\Hello_world\obj\Debug\Hello_world.pdb
